@@ -37,7 +37,7 @@
 **[![Watch the Video] (https://youtu.be/kFf2bROn-uY)**
 
 **Why I include performance videos:**  
-"Performing stand-up comedy is a human-centric 'stress test' for language. By analyzing live audience reactions to puns and cultural metaphors, I gather data on linguistic nuances that are crucial for fine-tuning LLMs—especially in improving an AI's ability to grasp sarcasm, timing, and emotional resonance."
+Performing stand-up comedy is a human-centric 'stress test' for language. By analyzing live audience reactions to puns and cultural metaphors, I gather data on linguistic nuances that are crucial for fine-tuning LLMs—especially in improving an AI's ability to grasp sarcasm, timing, and emotional resonance.
 ---
 
 ## 🔍 语言学备注 (Linguistic Notes)

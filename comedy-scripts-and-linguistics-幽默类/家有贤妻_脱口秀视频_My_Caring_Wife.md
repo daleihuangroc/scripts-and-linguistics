@@ -26,7 +26,7 @@
 
 **【转折与反转】**  
 她说：“明天早晨你想吃什么？”  
-我当时差点昏过去。高血压马上变成低血糖。我一下就瘫坐在楼梯上了。心想，就这么点儿事，你非得现在问吗？ 贤妻！ 
+我当时差点昏过去。高血压马上变成低血糖。我一下就瘫坐在楼梯上了。心想，就这么点儿事，你非得现在问吗？ 贤妻！  
 一肚子火，又发不出去，自言自语了一句，“我去”。 
 她没听清，还问，“你说什么？”  
 我火一下子窜到脑门上了，高声说：“我去！”  
@@ -34,10 +34,9 @@
 
 ---
 ## 点击观看脱口秀现场表演：家有"贤"妻
-** [![Watch the Video] (https://youtu.be/kFf2bROn-uY) **  
+**[![Watch the Video] (https://youtu.be/kFf2bROn-uY)**
 
-
-**Why I include performance videos:**
+**Why I include performance videos:**  
 "Performing stand-up comedy is a human-centric 'stress test' for language. By analyzing live audience reactions to puns and cultural metaphors, I gather data on linguistic nuances that are crucial for fine-tuning LLMs—especially in improving an AI's ability to grasp sarcasm, timing, and emotional resonance."
 ---
 
